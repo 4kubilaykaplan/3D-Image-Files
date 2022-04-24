@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1572082084 source:c:\users\user\desktop\yukle\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<dirent.h>
+	<math.h>
+
